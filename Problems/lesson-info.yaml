@@ -1,0 +1,37 @@
+content:
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting
+- Pastry packing optimization
+- Boxes are not just objects!
+- Blacklist
+- Squares list
+- Creating a set
+- Strict superset
+- Symmetric difference
+- Removing elements
+- Creating a map
+- War and Peace
+- Creating list
+- Output the list's elements
+- Find the nearest number
+- Distance
+- Liquid pressure
+- Area of a circle
+- Pow
+- Heron's formula
+- Quadratic equation
+- Find a value's index
+- The index of the last occurrence
+- Count elements of an array in another one
+- The index of the K occurrence
+- Companies
+- Filtering the list
+- The first element
+- Print content
+- Invert an array
+- The sign of a number
+- Sum of numbers in the range
+- Create a full name
+- Decompose a math function
